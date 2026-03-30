@@ -1,0 +1,5 @@
+interface:
+  display_name: "功能速查海报"
+  short_description: "把工具文档、README或上下文整理成功能速查海报"
+  brand_color: "#2F6FE2"
+  default_prompt: "Use $capability-poster to turn a tool or product document into a functional capability cheatsheet poster."
