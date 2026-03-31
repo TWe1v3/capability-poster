@@ -6,9 +6,9 @@ Local Codex skill for turning a tool or product document into a multi-column fun
 
 Generated from the public `lark-cli` README. 基于公开的 `lark-cli` README 生成。
 
-![lark-cli capability poster](examples/lark-cli-capability-poster.png)
+![lark-cli capability poster](examples/lark-cli-capability-poster-inline.svg)
 
-[Open the preview file](examples/lark-cli-capability-poster.png)
+[Open the PNG preview file](examples/lark-cli-capability-poster.png)
 
 ## 中文说明
 
