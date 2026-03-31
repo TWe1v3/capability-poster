@@ -2,6 +2,12 @@
 
 Local Codex skill for turning a tool or product document into a multi-column functional capability poster.
 
+## Preview / 样图
+
+Generated from the public `lark-cli` README. 基于公开的 `lark-cli` README 生成。
+
+![lark-cli capability poster](examples/lark-cli-capability-poster.png)
+
 ## 中文说明
 
 `capability-poster` 是一个本地 Codex Skill，用来把工具或产品文档整理成多列功能速查海报。
